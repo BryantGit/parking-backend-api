@@ -47,4 +47,4 @@ To develop the application, follow these steps:
 ## API Link
 
 Link: [API](http://www.apiparking.somee.com/swagger/index.html)
-https://www.apiparking.somee.com/swagger/index.html (authentication process in progress)
+Link2:[API with ssl] (https://www.apiparking.somee.com/swagger/index.html) authentication process in progress.
